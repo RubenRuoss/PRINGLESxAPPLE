@@ -7,12 +7,12 @@ body {
 
 @font-face {
     font-family: "Pinup";
-    src: url(/Pinup.otf);
+    src: url(Pinup.otf);
 }
 
 @font-face {
     font-family: "Andes";
-    src: url(/andes.otf);
+    src: url(andes.otf);
 }
 /* Handy */
 @media screen and (max-width: 450px) {
